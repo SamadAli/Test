@@ -1,5 +1,4 @@
 {
-    "name": "details.json",
-    "description": "This file contains detailed information about the project, including its objectives, team members, and timeline.",
-    "version": "1.0"
+    "name" : "details.json",
+    "email" : "jond22@gmail.com"
 }
